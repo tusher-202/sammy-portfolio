@@ -1,0 +1,6 @@
+body{
+	background-image:url("o.jpg"),url("z.jpg");
+	background-repeat: no-repeat;
+	background-size:440px 449px, 1537px 600px;
+	background-position: 0px 150px,0% 0%;
+}

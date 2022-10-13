@@ -1,0 +1,6 @@
+body{
+	background-image: url("hp.jpg"),url("tzp.jpg"),url("mh.jpg"),url("cs.jpg"),url("b.jpg"),url("m.jpg");
+	background-repeat: no-repeat;
+	background-size: 250px,200px,250px,200px,300px,1535px 635px;
+	background-position:67% 450px,97% 400px,97% 270px,67% 230px,97% 130px,0% 0%;
+}
